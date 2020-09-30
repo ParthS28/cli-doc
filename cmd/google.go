@@ -34,7 +34,7 @@ var googleCmd = &cobra.Command{
 			if index == 0 && index == 1 {
 				continue
 			}
-			url += arg
+			url += arg + "+"
 		}
 		openBrowser(url)
 	},
