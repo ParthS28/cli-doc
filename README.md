@@ -17,6 +17,6 @@ We have also added `doc google [search query]`.
 The code underlying for this is very simple. This is a beginner friendly community. Do not feel overwhelmed and contribute.
 
 ## TODO
-- [x] torch
+- [ ] making an installable command
 - [ ] opencv
 - [ ] sympy
