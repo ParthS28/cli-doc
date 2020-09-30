@@ -17,6 +17,9 @@ We have also added `doc google [search query]`.
 The code underlying for this is very simple. This is a beginner friendly community. Do not feel overwhelmed and contribute.
 
 ## TODO
-- [ ] making an installable command
+- [ ] ability to use it without go installation
+- [ ] adding support for other OS
+- [ ] sklearn
 - [ ] opencv
 - [ ] sympy
+
