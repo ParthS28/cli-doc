@@ -13,6 +13,12 @@ Use `doc` to get basic information.
 
 We have also added `doc google [search query]`.
 
+## How to install
+
+Installation is very easy if you have go installed. Start by cloning the repository `git clone https://github.com/ParthS28/cli-doc`, open a terminal and navigate to the repository and type `go install`. As far as I know, this works perfectly on linux. We still need to check on other OS.
+
+Become a contributor by checking the installation. 
+
 ## Contributing
 The code underlying for this is very simple. This is a beginner friendly community. Do not feel overwhelmed and contribute.
 
